@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praetoryan
+- 👋 Hi, I’m Rob
 - 👀 I’m interested in eventually becoming a full stack developer.
 - 🌱 I’m currently starting to learn with Java.
 - 💞️ I’m looking to collaborate on school projects for the time being a who knows in the hopefully near future.
