@@ -2,7 +2,7 @@
 - 👀 I’m interested in eventually becoming a full stack developer.
 - 🌱 I’m currently starting to learn with Java.
 - 💞️ I’m looking to collaborate on school projects for the time being a who knows in the hopefully near future.
-- 📫 How to reach me ...TBD.
+- 📫 How to reach me ...message me here.
 
 <!---
 praetoryan/praetoryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
